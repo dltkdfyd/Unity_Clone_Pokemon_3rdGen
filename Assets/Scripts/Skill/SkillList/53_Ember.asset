@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc1625fa38e9da349aaeb2c10f0d4e2a, type: 3}
+  m_Name: 53_Ember
+  m_EditorClassIdentifier: 
+  ID: 53
+  skillName: "\uBD88\uAF43\uC138\uB840"
+  skillDescription: "\uC791\uC740 \uBD88\uAF43\uC744 \uC0C1\uB300\uC5D0\uAC8C \uBC1C\uC0AC\uD558\uC5EC
+    \uACF5\uACA9\uD55C\uB2E4. \uD654\uC0C1 \uC0C1\uD0DC\uB85C \uB9CC\uB4E4 \uB54C\uAC00
+    \uC788\uB2E4."
+  type: 2
+  power: 40
+  accuracy: 100
+  pp: 25

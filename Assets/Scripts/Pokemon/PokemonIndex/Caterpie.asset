@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61388a9887b904346ba13f155ba7739c, type: 3}
+  m_Name: Caterpie
+  m_EditorClassIdentifier: 
+  ID: 10
+  pokemonName: "\uCE90\uD130\uD53C"
+  pokemonDescription: "\uD478\uB978 \uD53C\uBD80\uB85C \uAC10\uC2F8\uC838 \uC788\uB2E4.
+    \uD0C8\uD53C\uD558\uC5EC \uC131\uC7A5\uD558\uBA74 \uC2E4\uC744 \uB298\uC5B4\uB728\uB824
+    \uBC88\uB370\uAE30\uB85C \uBC14\uAFBC\uB2E4."
+  frontSprite: {fileID: 1615192392, guid: 4b8ab65481eab8b4896e4e4f30b5b148, type: 3}
+  backSprite: {fileID: -1543094381, guid: 4b8ab65481eab8b4896e4e4f30b5b148, type: 3}
+  icon: {fileID: 0}
+  type1: 12
+  type2: 0
+  catchRate: 255
+  maxHP: 45
+  attack: 30
+  defense: 35
+  spAttack: 20
+  spDefense: 20
+  speed: 45
+  learnableSkills:
+  - skill: {fileID: 11400000, guid: 36cbbc080716ac2408c2f87421d5f33d, type: 2}
+    level: 1
+  - skill: {fileID: 11400000, guid: aa14b5b16ea0dd14ba011ab1901376e1, type: 2}
+    level: 1

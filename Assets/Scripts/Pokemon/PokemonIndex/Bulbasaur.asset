@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61388a9887b904346ba13f155ba7739c, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  ID: 1
+  pokemonName: "\uC774\uC0C1\uD574\uC528"
+  pokemonDescription: "\uD0DC\uC5B4\uB0AC\uC744 \uB54C\uBD80\uD130 \uB4F1\uC5D0 \uC2DD\uBB3C\uC758
+    \uC528\uC557\uC774 \uC788\uC73C\uBA70 \uC870\uAE08\uC529 \uD06C\uAC8C \uC790\uB780\uB2E4."
+  frontSprite: {fileID: 1913176960, guid: 4b8ab65481eab8b4896e4e4f30b5b148, type: 3}
+  backSprite: {fileID: 1622920300, guid: 4b8ab65481eab8b4896e4e4f30b5b148, type: 3}
+  icon: {fileID: 0}
+  type1: 5
+  type2: 8
+  catchRate: 45
+  maxHP: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45
+  learnableSkills:
+  - skill: {fileID: 11400000, guid: 36cbbc080716ac2408c2f87421d5f33d, type: 2}
+    level: 1
+  - skill: {fileID: 11400000, guid: a8604f9288de9ee4ea7783533409bb5e, type: 2}
+    level: 5
+  - skill: {fileID: 11400000, guid: 97852fee0d3ed624cbb191f1c6b1321c, type: 2}
+    level: 7
